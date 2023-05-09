@@ -15,13 +15,13 @@
 1. Clone this repository to your local machine:
 
 
-#    git clone https://github.com/KNR-PW/Facial-Expressions-Recognition.git
+> git clone https://github.com/KNR-PW/Facial-Expressions-Recognition.git
 
 
 2. Install the required Python packages:
 
 
-#    pip install -r requirements.txt
+> pip install -r requirements.txt
 
 
 ## Usage
@@ -29,7 +29,7 @@
  To start the facial expression recognition program, run the following command:
 
 
-# python main.py
+> python main.py
 
 
  This will open up your webcam and start detecting and recognizing facial expressions in real-time. The recognized expressions will be displayed on the screen along with a rectangle around the detected face.
