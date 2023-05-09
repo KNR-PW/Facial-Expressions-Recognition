@@ -20,7 +20,7 @@ To run the project, you will need the following software installed:
 2. Install the required Python packages:
 
 
-> pip install -r requirements.txt
+> pip install -r requirements.txt (soon)
 
 
 ## Usage
