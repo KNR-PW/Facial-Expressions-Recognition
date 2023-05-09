@@ -3,8 +3,7 @@
  This project aims to recognize facial expressions in real-time using computer vision techniques and machine learning algorithms. The project is written in Python and uses the OpenCV and TensorFlow libraries. Thanks to this solution our humanoid robots can easily interact with people. As a future goal, recognising some specific expression will trigger an action. For instance, when Melman would see you sad he would probably try to cheer you up.
 
 ## Requirements
-
-# To run the project, you will need the following software installed:
+To run the project, you will need the following software installed:
 
  - Python 3.6+
  - OpenCV 
